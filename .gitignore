@@ -1,0 +1,8 @@
+# Ignore directories
+
+# Ignore file
+key.txt
+densities.db
+densities.csv
+
+
