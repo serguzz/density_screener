@@ -1,4 +1,6 @@
 # Ignore directories
+.ipynb_checkpoints
+__pycache__
 
 # Ignore file
 key.txt
